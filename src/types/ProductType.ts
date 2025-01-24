@@ -5,3 +5,6 @@ export type ProductType = {
 	category: string
 	image: string
 }
+export type ProductsResponse = {
+	products: ProductType[]
+}

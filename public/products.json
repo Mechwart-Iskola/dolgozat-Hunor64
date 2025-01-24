@@ -12,7 +12,7 @@
         "name": "Chair",
         "price": 150,
         "category": "Furniture",
-        "image": "/images/chair.png"
+        "image": "/images/chair.jpg"
       },
       {
         "id": 3,
@@ -40,7 +40,7 @@
         "name": "Headphones",
         "price": 100,
         "category": "Electronics",
-        "image": "/images/headphones.png"
+        "image": "/images/headphones.jpg"
       },
       {
         "id": 7,

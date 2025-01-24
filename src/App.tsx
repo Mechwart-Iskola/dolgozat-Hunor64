@@ -1,8 +1,6 @@
 import ProductCard from "./Components/ProductCard.tsx"
 import "./App.css"
 
-
-
 function App() {
 	return (
 		<div>

@@ -1,13 +1,15 @@
-import ProductCard from "./ProductCard";
-import "./App.css";
+import ProductCard from "./ProductCard.tsx"
+import "./App.css"
+
+
 
 function App() {
-  return (
-    <div>
-      <h1>Product Information</h1>
-      <ProductCard />
-    </div>
-  );
+	return (
+		<div>
+			<h1>Product Information</h1>
+			<ProductCard />
+		</div>
+	)
 }
 
-export default App; 
+export default App
